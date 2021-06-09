@@ -1,0 +1,5 @@
+1 - O controle de versão git foi inventado por Linus Torvalds, com o objetivo de tornar mais rápida e segura as atividades que ele desenvolvia no linux.
+
+2 - A Microsoft é a proprietária do Github.
+
+3 - Sim, existem softwares que conseguem trabalhar com o Github.

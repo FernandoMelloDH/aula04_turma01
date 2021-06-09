@@ -1,0 +1,8 @@
+1. Ele foi criado por Linus Torvalds, que é mais conhecido por outra criação sua, o Linux. Linus desenvolveu o Git após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper, o sistema de controle de versão que era utilizado por ele e pela equipe que desenvolvia o Linux.
+2.
+Tom Preston-Werner
+Chris Wanstrath
+Scott Chacon
+P. J. Hyett
+
+3.Não, apenas no teminal.

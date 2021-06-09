@@ -1,0 +1,7 @@
+Respostas:
+
+1- O inventor do sistema de versão Git, foi Linus Torvalds. Ele o desenvolveu após perceber sua insatisfação com a mudança de licença de utilização do Bitkeeper, o sistema de controle de versão que era utilizado, até então, por ele e pela equipe que desenvolvia o Linux (sistema que criou e pelo qual ficou mundialmente famoso).
+
+2- O GitHub atualmente pertence a Microsoft. Porque comprou a empresa em 4 de junho de 2018 por US$7,5 bilhões. Segundo a mesma, com a compra da plataforma, as empresas poderão unir forças e fortalecer o compromisso com a liberdade, abertura e inovação dos desenvolvedores, reafirmando assim o compromisso da Microsoft em capacitar cada desenvolvedor a construir, inovar e resolver os desafios mais diversos. Palavras essas ditas pelo então diretor executivo da mesma, Satya Nadella.
+
+3- Existe sim outras maneiras de se trabalhar com o GitHb, além do terminal, como através das interfaces visuais e suas respectivas integrações.
