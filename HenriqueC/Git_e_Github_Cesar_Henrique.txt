@@ -1,0 +1,5 @@
+1. Inicialmente, ele foi desenvolvido pelo Linus Torvalds, e assim usado no desenvolvimento do Kernel do Linux. O invento deve-se ao fato que Torvalds estava em busca de algo relativamente rápido para conseguir lidar com uma série constante de atividades ligadas ao Linux.
+
+2.Em 4 de junho de 2018, a Microsoft anunciou a compra da plataforma por US$ 7,5 bilhões. O diretor executivo da Microsoft afirma: "[...]ao unir forças com o GitHub, fortalecemos nosso compromisso com a liberdade, a abertura e a inovação dos desenvolvedores. Reconhecemos a responsabilidade da comunidade que assumimos com este acordo e faremos o nosso melhor trabalho para capacitar cada desenvolvedor a construir, inovar e resolver os desafios mais prementes do mundo."
+
+3. Não que seja do meu conhecimento
