@@ -1,0 +1,8 @@
+1- Quem inventou o sistema de controle de versão Git e por quê?
+R.: O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos. 
+O desenvolvimento do Git surgiu após vários desenvolvedores do kernel (núcleo) do Linux decidirem desistir de acessar ao sistema do BitKeeper, que é um software proprietário.
+Torvalds queria um sistema distribuído que ele pudesse utilizar de forma similar ao BitKeeper (BK), mas nenhum dos sistemas livres disponíveis atendia suas necessidades, particularmente com relação à performance.
+2- Quem atualmente é o dono do Github e por quê?
+R.: A Microsoft comprou o GitHub por US$ 7,5 bilhõesé em 04 de junho de 2018 e é a atual empresa responsável pelo GIT.
+3- Existe outra maneira, além do terminal, de trabalhar com o Github?
+R.: Sim, podemos usar diretamente o Github, ou softwares auxiliares como o editor VsCode.
