@@ -1,0 +1,71 @@
+header{
+    align-content: center;
+    background-color: rgb(206, 231, 197);
+}
+
+h1{
+    font-family: "Open Sans";
+    text-align: center;
+    background-color: rgb(173, 173, 122);
+    font-size: 60px;
+    width: "50%";
+}
+.caBecalho{
+    font-weight: 50;
+    border: 30px;
+    padding: 10px;
+    display: block;
+}
+h2{
+    text-align: center;
+}
+.chatWhats{
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+    width: 50px;
+
+}
+h3{
+   margin: 15px;
+   }
+body
+{
+    font-family: "Open Sans";
+    background-color: rgb(226, 231, 224);
+    border: 2px;
+    margin: 15px;
+}
+.departamento{
+    text-align: center;
+    background-color: darkseagreen;
+    color: #000;
+}
+.item{
+    align-tracks: "center";
+    padding: 30px;
+    margin: 15px;
+    display: inline-flex;
+
+}
+.receitas{
+    display: flex;
+    margin: 60px;
+}
+.receita1{
+    text-align: left;
+}
+.receita2{
+    text-align: right;
+}
+
+.margin{
+    border: 15px;
+    width: 200px;
+    height: 300px;
+}
+.abreviAcao{
+    display: none;
+}
+
+
